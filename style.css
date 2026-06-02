@@ -1,0 +1,23 @@
+.title{
+    text-align: center;
+    margin-top: 80px;
+}
+.input{
+    text-align: center;
+    margin-top: 140px;
+}
+.button{
+    text-align: center;
+    margin-top: 20px;
+}
+.result{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.inputscreen{
+    display: block;
+}
+.resultscreen{
+    display: none;
+}
